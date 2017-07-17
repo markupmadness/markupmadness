@@ -12,7 +12,7 @@ Kramdown • Wikipedia Markup • Text with Instructions (.texti) • LaTeX • 
 </> [**Text with Instructions (.texti) Samples**](texti) #markdown #wikipedia
 
 
-## "Classic Markup
+## "Classic" Markup
 
 </> [**Hypertext Markup Language (HTML) Samples**](html) #html
 
