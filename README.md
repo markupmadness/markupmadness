@@ -1,4 +1,4 @@
-Kramdown • Text with Instructions (.texti) • LaTeX • HTML • Many More
+Kramdown • Wikipedia Markup • Text with Instructions (.texti) • LaTeX • HTML • Many More
 
 # Markup & Markdown Madness Samples (Showcase)
 
@@ -7,14 +7,16 @@ Kramdown • Text with Instructions (.texti) • LaTeX • HTML • Many More
 
 </> [**Kramdown Samples**](kramdown) #markdown
 
-</> [**Text with Instructions (.texti)**](texti) #markdown #wikipedia
+</> [**Wikipedia Markup Samples**](wikipedia) #wikipedia
+
+</> [**Text with Instructions (.texti) Samples**](texti) #markdown #wikipedia
 
 
 ## "Classic Markup
 
-</> [**Hypertext Markup Language (HTML)**](html) #html
+</> [**Hypertext Markup Language (HTML) Samples**](html) #html
 
-</> [**LaTeX)**](latex) #latex #tex
+</> [**LaTeX Samples**](latex) #latex #tex
 
 
 
